@@ -1,0 +1,14 @@
+core.editor="C:\Users\Hi\AppData\Local\Programs\Microsoft VS Code\bin\code" --wait
+safe.directory=C:/Users/Hi/AndroidStudioProjects/Soumendu/project/cendrol-admin-app
+safe.directory=C:/Users/Hi/Documents/Python Practice
+safe.directory=C:/Users/Hi/AndroidStudioProjects/Soumendu/CustomSensorApp
+safe.directory=C:/Users/Hi/AndroidStudioProjects/Soumendu/SensorLib
+safe.directory=C:/Users/Hi/AndroidStudioProjects/Soumendu/SensorPlugin
+filter.lfs.clean=git-lfs clean -- %f
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.process=git-lfs filter-process
+filter.lfs.required=true
+http.postbuffer=524288000
+credential.https://huggingface.co.provider=generic
+user.name=Prithivi2807
+user.email=prithivi2807@gmail.com
